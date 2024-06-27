@@ -11,5 +11,6 @@
     <p>Feature 1-fix</p>
 
     <p>test</p>
+    <p>test-merge</p>
 </body>
 </html>
